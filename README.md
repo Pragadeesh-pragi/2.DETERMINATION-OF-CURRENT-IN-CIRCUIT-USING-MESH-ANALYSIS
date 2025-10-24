@@ -64,5 +64,5 @@ b)	The current across 560Ω resistor is 4.3	A.
 c)	The current across 470Ω resistor is 5.9	A.
 
 **MARK SPLIT-UP**
-![2T ](https://github.com/user-attachments/assets/01d5f3da-258b-4edc-9f18-afcfa923c385)
+![MAEK ](https://github.com/user-attachments/assets/2d8a6663-283c-43c6-921f-60d9c3b1280b)
 
