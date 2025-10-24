@@ -39,8 +39,8 @@
 
 
 **THEORETICAL CALCULATION:** 
-![2 C](https://github.com/user-attachments/assets/1991169c-14d6-466e-a022-5062703bfe8a)
 
+![2 T1](https://github.com/user-attachments/assets/94d0883e-72ab-4b68-934f-a00bf63deaf2)
 
 
 ![2T ](https://github.com/user-attachments/assets/316ce082-f270-4ece-9e10-2189255871e6)
