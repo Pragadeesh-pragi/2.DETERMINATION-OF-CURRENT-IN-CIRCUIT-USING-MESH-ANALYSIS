@@ -49,7 +49,8 @@
 
 
 **OBSERVATION TABLE:**
-![2T ](https://github.com/user-attachments/assets/316ce082-f270-4ece-9e10-2189255871e6)
+
+![2 O](https://github.com/user-attachments/assets/29a70dfe-c7da-46bd-b3f4-f5dae3258204)
 
 
 **RESULT:**
